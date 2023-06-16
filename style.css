@@ -5,15 +5,30 @@
 }
 
  body{
-    background: url(/fundo.jpeg)  no-repeat;
+    background: #d1cece;
     background-size: cover;
-
   }
   
 
 #cab1 {
     padding: 10px;
-    
+    border-bottom: 1px solid #c7c0c0;   
+}
+
+#aprt{
+    margin-top: 30px;
+    border-bottom: 1px solid #c7c0c0;   
+}
+
+#carouselExampleIndicators{
+    margin-left: 300px;
+    height: 100%;
+    width: 80%;
+}
+
+img{
+    width: 300px;
+    height: 800px;
 }
 
 
